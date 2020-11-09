@@ -8,14 +8,10 @@ import static org.junit.jupiter.api.Assertions.fail;
 
 public class SimpleTest {
 
-//    @Test
-//    public void otherTest(){
-//        fail("wow!");
-//    }
 
     @Test
     public void myTest(){
-        int expected = 6;
+        int expected = 7;
 //        int actual = 3;
         int actual = 5;
         assertEquals(expected, actual);
