@@ -15,7 +15,7 @@ public class SimpleTest {
 
     @Test
     public void myTest(){
-        int expected = 5;
+        int expected = 6;
 //        int actual = 3;
         int actual = 5;
         assertEquals(expected, actual);
