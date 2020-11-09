@@ -8,10 +8,10 @@ import static org.junit.jupiter.api.Assertions.fail;
 
 public class SimpleTest {
 
-    @Test
-    public void otherTest(){
-        fail("wow!");
-    }
+//    @Test
+//    public void otherTest(){
+//        fail("wow!");
+//    }
 
     @Test
     public void myTest(){
