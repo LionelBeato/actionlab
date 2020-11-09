@@ -8,7 +8,7 @@ public class SimpleTest {
     public void test(){
         int expected = 5;
 //        int actual = 3;
-        int actual = 5;
+        int actual = 4;
         assertEquals(expected, actual);
     }
 
